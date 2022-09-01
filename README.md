@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @nicholaschilders
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in the study of quantum systems through computational analysis.
+- 🌱 I’m currently learning a new PDE coding package for Python.
+- 💞️ I’m looking to collaborate on new academic programs.
+- 📫 How to reach me: email me at stnicholaschilders@gmail.com if you have any questions!
 
-<!---
-nicholaschilders/nicholaschilders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
